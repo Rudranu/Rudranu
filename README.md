@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on as a Developer
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Data Science Project
-- 🤔 I’m looking for help with Machine Learning
+- 👯 I’m looking to collaborate on Data Engineering Project
+- 🤔 I’m looking for help with Data Engineering
 - 💬 Ask me about Anything
 - 📫 How to reach me: rudranupalit13@gmail.com
 - 😄 Pronouns: He/Him
